@@ -6,5 +6,3 @@
 - 🌱 **Currently learning:** TypeScript, Next.js, testing (Jest, Mocha), Docker, Clean Code
 
 - 💬 **Ask me about:** JavaScript, React, Node.js, SQL, full-stack development
-
-- 📄 **Check out my [resume](https://github.com/victoriastruk/resume)**
