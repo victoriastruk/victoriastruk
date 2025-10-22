@@ -1,36 +1,9 @@
-<!-- LANGUAGE SWITCH -->
-<p align="right">
-  <a href="#-about-me">🇬🇧 English</a> | <a href="#-про-мене">🇺🇦 Українська</a>
-</p>
-
-<!-- TITLE -->
-<h1 align="center">👋 Привіт! Я Вікторія Струк</h1>
-<h3 align="center">Frontend / Fullstack JavaScript Developer з України 🇺🇦</h3>
+<h1 align="center">👋 Hi! I'm Viktoriia Struk</h1>
+<h3 align="center">Frontend / Fullstack JavaScript Developer from Ukraine 🇺🇦</h3>
 
 ---
 
-## 🇺🇦 Про мене
-
-**Junior JavaScript Developer** із технічною освітою та любов’ю до сучасного вебу 💻  
-Фокусуюсь на **Frontend** (React, Next.js, Sass), маю досвід із **Backend** (Node.js, Express, PostgreSQL, Sequelize, MongoDB, Mongoose).
-
-🎓 Маю **вищу освіту з Інженерії програмного забезпечення** та пройшла навчання у **Freshcode Training Center (JavaScript Developer)** і **PortaOne (System Administration)**.
-
-💡 Зараз активно працюю над власними проєктами, вдосконалюю технічні навички  
-та готую портфоліо для подальшого пошуку роботи на позицію **Frontend / Fullstack Developer**.
-
----
-### 🛠 Технології
-#### 💻 Frontend:
-React, Next.js, Redux Toolkit, TypeScript, Tailwind CSS, Sass, Formik, Yup   
-#### ⚙️ Backend:
-Node.js, Express, PostgreSQL, Sequelize, MongoDB, Mongoose 
-#### 🧰 Інше:
-Docker, REST API, JWT, Git, Linux
-
----
-
-## 🇬🇧 About Me
+## 👩‍💻 About Me
 
 **Junior JavaScript Developer** with a technical education and a passion for modern web development 💻  
 Focused on **Frontend** (React, Next.js, Sass), with experience in **Backend** (Node.js, Express, PostgreSQL, Sequelize, MongoDB, Mongoose).
@@ -43,12 +16,12 @@ and preparing my portfolio for pursuing a position as a **Frontend / Fullstack D
 ---
 
 ### 🛠 Tech Stack
-#### 💻 Frontend:
-React, Next.js, Redux Toolkit, TypeScript, Tailwind CSS, Sass, Formik, Yup  
-#### ⚙️ Backend:
-Node.js, Express, PostgreSQL, Sequelize, MongoDB, Mongoose  
-#### 🧰 Other:
-Docker, REST API, JWT, Git, Linux
+
+**💻 Frontend:** React, Next.js, Redux Toolkit, TypeScript, Tailwind CSS, Sass, Formik, Yup  
+
+**⚙️ Backend:** Node.js, Express, PostgreSQL, Sequelize, MongoDB, Mongoose  
+
+**🧰 Інше:** Docker, REST API, JWT, Git, Linux
 
 ---
 
@@ -61,5 +34,4 @@ Docker, REST API, JWT, Git, Linux
 
 ---
 
-⭐️ _Якщо тобі сподобались мої проєкти - став зірочку або напиши відгук!_  
 ⭐️ _If you liked my projects - give them a star or reach out to collaborate!_
